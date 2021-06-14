@@ -1,0 +1,1 @@
+it is just simple adapter design pattern
